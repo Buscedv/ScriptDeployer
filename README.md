@@ -1,7 +1,7 @@
 # ScriptDeployer
 Turn your scripts like .py and .sh into application launchers (Linux Only!)
 
-<img src="DeployerTutorial.gif" title="Deployer Tutorial" />
+<img src="DeployerTutorial1.gif" title="Deployer Tutorial" />
 
 # Installation
 
