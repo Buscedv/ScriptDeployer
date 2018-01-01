@@ -23,6 +23,18 @@ $ sh deployer.sh
 
 Just follow the directions by the program.
 
+## For fun
+
+You can use the deployer script to create a application for the deployer script!
+
+# Using your applications:
+
+Double click the .desktop file (.desktop extension not visable!) The file that has your icon on it.
+
+# Important
+
+You can not delete or move the original script file!
+
 # Contact & Help
 
 E-mail: edvard1807@gmail.com
