@@ -6,7 +6,7 @@ Turn your scripts like .py and .sh into application launchers (Linux Only!)
 Download the file called 'deployer.sh'
 Command:
 
-$ wget https://github.com/Buscedv/ScriptDeployer/deployer.sh
+$ wget https://github.com/Buscedv/ScriptDeployer/master/deployer.sh
 
 # Run the script
 
